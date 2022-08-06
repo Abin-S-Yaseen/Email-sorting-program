@@ -1,0 +1,13 @@
+zomato
+reddit
+facebook
+'facebook'
+"facebook"
+"facebook'
+instagram
+'instagram'
+"instagram"
+quora
+linkedin
+nptel
+"upstox"
