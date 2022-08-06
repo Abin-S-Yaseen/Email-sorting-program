@@ -5,6 +5,7 @@ Here is a solution.
 A gmail sorting program in python that sorts out all the less important emails
 as per the specifications of the user by taking the usernames of all those 
 unwanted accounts in a text file.
+The important emails are then displayed on a separate tkinter window
 
 * Languages used : Python
 * External Libraries used : -> Imaplib
